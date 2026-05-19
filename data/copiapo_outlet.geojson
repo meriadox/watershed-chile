@@ -1,0 +1,13 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"name": "Ciudad de Copiapó"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.350881, -27.360892]
+      }
+    }
+  ]
+}

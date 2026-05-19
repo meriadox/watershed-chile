@@ -1,0 +1,19 @@
+name: watershed-chile
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy<2.0       # pysheds 0.3.5 requires numpy < 2.0
+  - geopandas>=0.14
+  - rasterio>=1.3
+  - shapely>=2.0
+  - matplotlib>=3.8
+  - pandas>=2.0
+  - scipy>=1.11
+  - requests>=2.31
+  - jupyterlab>=4.0
+  - tqdm>=4.66
+  - pip
+  - pip:
+    - pysheds==0.3.5
