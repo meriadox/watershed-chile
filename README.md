@@ -2,7 +2,7 @@
 
 ![version](https://img.shields.io/badge/version-0.1.0-blue)
 ![license](https://img.shields.io/badge/license-MIT-green)
-![python](https://img.shields.io/badge/python-3.11-blue)
+![python](https://img.shields.io/badge/python-3.10-blue)
 
 A complete, reproducible Python workflow for watershed delineation and morphological analysis — applied to the **Río Copiapó basin** (Atacama Region, Chile, ~17,000 km²).
 
