@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.11
+  - python=3.10
   - numpy<2.0       # pysheds 0.3.5 requires numpy < 2.0
   - geopandas>=0.14
   - rasterio>=1.3

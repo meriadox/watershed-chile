@@ -125,4 +125,8 @@ watershed-chile/
 
 ## License
 
-MIT
+MIT © 2025 Rodrigo Meza L.
+
+---
+
+*Developed with [Claude Code](https://claude.ai/code) (Anthropic)*
